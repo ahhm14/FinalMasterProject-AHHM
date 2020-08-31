@@ -33,10 +33,10 @@ availability of both CMR and the segmentation of the heart structures: Myocardiu
 results, discuss challenges and elaborate on future work.
 
 
-## 4. Contributions
+## Contributions
 Contributions are welcome! For bug reports or requests please submit an [submit an issue](https://github.com/ahhm14/FinalMasterProject-AHHM//issues).
 
-## 5. Contact
+## Contact
 Feel free to contact me to discuss any issues, questions or comments.
 * GitHub: [ahhm14](https://github.com/ahhm14)
 * Linkedin: [Alejandro Hernandez Matheus](https://www.linkedin.com/in/alejandro-hernandez-matheus/)
@@ -46,7 +46,7 @@ Feel free to contact me to discuss any issues, questions or comments.
 
 The content developed by Alejandro Hernandez is distributed under the following license:
 
-    Copyright 2020 Alejandro Gonzalez
+    Copyright 2020 Alejandro Hernandez
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
