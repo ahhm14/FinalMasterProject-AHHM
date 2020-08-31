@@ -4,7 +4,7 @@ Repository of documents for the final Master's thesis of the Master's in Fundame
 Gkntra and Karim Lekadir from the Artitificial Intelligence Labortary in Medicine at University of Barcelona. 
 
 This repository corresponds to Jupyter Notebooks and Python files to develop pipeline for the extraction of Hand Crafted Radiomics and Deep Learning-based radiomics
-and ultimately, the fusion of these both types of features.  We also provide the code for the extraction of the radiomics from the PyRadiomics library and pre-processing
+and ultimately, the fusion of these both types of features.  We also provide the code for the extraction of the radiomics from the <em> PyRadiomics library and pre-processing
 of the images. 
 
 Alejandro Hernandez Matheus
@@ -31,6 +31,12 @@ benchmark medical datasets: ACDC Challenge dataset and UK Bio Bank with the
 availability of both CMR and the segmentation of the heart structures: Myocardium
 (MYO), Right Ventricle (RV) and Left Ventricle (LV). We perform an analysis of the
 results, discuss challenges and elaborate on future work.
+
+<p align="center"><img src="https://github.com/ahhm14/FinalMasterProject-AHHM/blob/master/X.%20Report/Figures/Fusion%20Pipeline%202.png" align=middle width=645.87435pt height=348.58725pt/>
+</p>
+<p align="center">
+<em>Pipeline developed for the features of Radiomics.</em>
+</p>
 
 
 ## Contributions
