@@ -35,7 +35,7 @@ results, discuss challenges and elaborate on future work.
 <p align="center"><img src="https://github.com/ahhm14/FinalMasterProject-AHHM/blob/master/X.%20Report/Figures/Fusion%20Pipeline%202.png" align=middle width=645.87435pt height=348.58725pt/>
 </p>
 <p align="center">
-<em>Pipeline developed for the features of Radiomics.</em>
+<em>Pipeline developed for the fusion of the two types of Radiomics.</em>
 </p>
 
 
@@ -62,14 +62,3 @@ The content developed by Alejandro Hernandez is distributed under the following 
 
     Copyright 2020 Alejandro Hernandez
 
-    Licensed under the Apache License, Version 2.0 (the "License");
-    you may not use this file except in compliance with the License.
-    You may obtain a copy of the License at
-
-       http://www.apache.org/licenses/LICENSE-2.0
-
-    Unless required by applicable law or agreed to in writing, software
-    distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-    limitations under the License.
