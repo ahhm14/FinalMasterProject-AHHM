@@ -1,7 +1,7 @@
 # Hand-crafted and Deep Learning-based CMR Radiomics for Diagnosis of Cardiovascular Diseases
 
 Repository of documents for the final Master's thesis of the Master's in Fundamentals in Data Science at the University of Barcelona. This thesis was supervised by Polyxeni 
-Gkntra and Karim Lekadir from the Artitificial Intelligence Labortary in Medicine at University of Barcelona. 
+Gkontra and Karim Lekadir from the Artitificial Intelligence Labortary in Medicine at University of Barcelona. 
 
 This repository corresponds to Jupyter Notebooks and Python files to develop pipeline for the extraction of Hand Crafted Radiomics and Deep Learning-based radiomics
 and ultimately, the fusion of these both types of features.  We also provide the code for the extraction of the radiomics from the <em> PyRadiomics</em> library and pre-processing
@@ -43,8 +43,8 @@ results, discuss challenges and elaborate on future work.
 
 > - Radiomics
 > - Machine Learning (ML)
-> - Deep Learning
-> - Fusion of Features
+> - Deep Learning (DL)
+> - Fusion of Features 
 
 
 ## Contributions
