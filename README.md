@@ -32,3 +32,30 @@ availability of both CMR and the segmentation of the heart structures: Myocardiu
 (MYO), Right Ventricle (RV) and Left Ventricle (LV). We perform an analysis of the
 results, discuss challenges and elaborate on future work.
 
+
+## 4. Contributions
+Contributions are welcome! For bug reports or requests please submit an [submit an issue](https://github.com/ahhm14/FinalMasterProject-AHHM//issues).
+
+## 5. Contact
+Feel free to contact me to discuss any issues, questions or comments.
+* GitHub: [ahhm14](https://github.com/ahhm14)
+* Linkedin: [Alejandro Hernandez Matheus](https://www.linkedin.com/in/alejandro-hernandez-matheus/)
+
+
+## License
+
+The content developed by Alejandro Hernandez is distributed under the following license:
+
+    Copyright 2020 Alejandro Gonzalez
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
