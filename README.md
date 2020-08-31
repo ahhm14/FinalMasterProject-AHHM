@@ -4,7 +4,7 @@ Repository of documents for the final Master's thesis of the Master's in Fundame
 Gkntra and Karim Lekadir from the Artitificial Intelligence Labortary in Medicine at University of Barcelona. 
 
 This repository corresponds to Jupyter Notebooks and Python files to develop pipeline for the extraction of Hand Crafted Radiomics and Deep Learning-based radiomics
-and ultimately, the fusion of these both types of features.  We also provide the code for the extraction of the radiomics from the <em> PyRadiomics library and pre-processing
+and ultimately, the fusion of these both types of features.  We also provide the code for the extraction of the radiomics from the <em> PyRadiomics</em> library and pre-processing
 of the images. 
 
 Alejandro Hernandez Matheus
@@ -37,6 +37,14 @@ results, discuss challenges and elaborate on future work.
 <p align="center">
 <em>Pipeline developed for the features of Radiomics.</em>
 </p>
+
+
+## Methods Applied
+
+> - Radiomics
+> - Machine Learning (ML)
+> - Deep Learning
+> - Fusion of Features
 
 
 ## Contributions
